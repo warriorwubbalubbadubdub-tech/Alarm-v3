@@ -1,5 +1,5 @@
 // Alarm PWA Service Worker
-const CACHE_NAME = 'alarm-app-v3';
+const CACHE_NAME = 'alarm-app-v4';
 const STATE_CACHE_NAME = 'alarm-app-state-v1';
 const ASSETS = [
   './',
